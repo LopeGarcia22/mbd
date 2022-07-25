@@ -679,7 +679,7 @@ _./src/index.html_
 # Results:
 
 ![RESULTS: March 2020](./content/chart-march2020.png "affected coronavirus March 2020")
-![RESULTS: July 2021](./content/chart-march2020.png "affected coronavirus July 2021")
-![RESULTS: July 2022](./content/chart-march2020.png "affected coronavirus July 2022")
+![RESULTS: July 2021](./content/chart-july2021.png "affected coronavirus July 2021")
+![RESULTS: July 2022](./content/chart-july2022.png "affected coronavirus July 2022")
 
 by Lope F. Garcia Gomez (July 2022)
