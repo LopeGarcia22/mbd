@@ -62,7 +62,7 @@ _./src/stats.ts_
   },
   {
     name: "Valencia",
-    value: 30,
+-    value: 30,
 +    value: 37,
   },
   {
